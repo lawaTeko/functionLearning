@@ -8,7 +8,7 @@ void panjangkalilebar(double p, double l){
 
 int main(){
 	
-	double panjang, lebar;
+	double lenght, width;
 	char repeat_;
 	
 	do {
@@ -17,13 +17,13 @@ int main(){
 	cout << "================================================" << endl;
 	
 	cout << "\nmasukan panjang = ";
-	cin >> panjang;
+	cin >> lenght;
 	cout << "masukan lebar   = ";
-	cin >> lebar;
+	cin >> width;
 	
 	cout << endl;
 	
-	panjangkalilebar(panjang, lebar);
+	panjangkalilebar(lenght, widht);
 	
 	cout << endl;
 	
