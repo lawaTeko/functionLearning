@@ -1,3 +1,5 @@
+// lawaTeko, Kairatu
+// menghitung luas persegi sederhana
 #include <iostream>
 using namespace std;
 
